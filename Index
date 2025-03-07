@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        window.location.href = "upi://pay?pa=kartik1247@ybl&pn=kartik&am=Amount&cu=INR";
+    </script>
+</head>
+<body>
+    <p>If you are not redirected, <a href="upi://pay?pa=kartik1247@ybl&pn=kartik&am=Amount&cu=INR">click here to pay</a>.</p>
+</body>
+</html>
